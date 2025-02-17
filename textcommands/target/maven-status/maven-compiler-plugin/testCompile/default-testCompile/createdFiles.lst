@@ -2,4 +2,5 @@ no/ntnu/idatt2003/WrapTextCommandTest.class
 no/ntnu/idatt2003/ReplaceTextCommandTest.class
 no/ntnu/idatt2003/WrapSelectionTextCommandTest.class
 no/ntnu/idatt2003/ReplaceFirstTextCommandTest.class
+no/ntnu/idatt2003/CapitalizeTextCommandTest.class
 no/ntnu/idatt2003/WrapLinesTextCommandTest.class
