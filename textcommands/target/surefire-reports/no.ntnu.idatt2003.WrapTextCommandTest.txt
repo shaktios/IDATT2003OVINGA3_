@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: no.ntnu.idatt2003.WrapTextCommandTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s -- in no.ntnu.idatt2003.WrapTextCommandTest
