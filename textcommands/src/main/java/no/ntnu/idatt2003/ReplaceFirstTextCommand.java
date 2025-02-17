@@ -14,7 +14,8 @@ public class ReplaceFirstTextCommand extends ReplaceTextCommand {
         if (text == null) {
             throw new IllegalArgumentException("Inputtekst kan ikke være null");
         }
-        return text.replaceFirst(target,replacement); 
+        
+        return text.replaceFirst(super.getTarget(), super.getReplacement());
     }
 
 
