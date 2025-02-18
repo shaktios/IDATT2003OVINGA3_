@@ -13,7 +13,9 @@ public class CapitalizeWordsTextCommand extends CapitalizeTextCommand{
         String[] words = text.split(" "); 
 
         for (int i = 0; i < words.length; i++) {
-            words[i] = super.execute(words[i]); //bruker den metoden vi lagde forrige deloppgave
+            if (!words[i].isEmpty()) {  // Sjekker at vi ikke prøver å kapitalisere en tom streng, bruker den metoden vi lagde forrige deloppgave
+                words[i] = super.execute(words[i]);
+            } 
         }
         
         String result = String.join(" ", words); 
