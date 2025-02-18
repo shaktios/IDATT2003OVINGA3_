@@ -2,6 +2,7 @@ no/ntnu/idatt2003/WrapTextCommand.class
 no/ntnu/idatt2003/WrapSelectionTextCommand.class
 no/ntnu/idatt2003/CapitalizeSelectionTextCommand.class
 no/ntnu/idatt2003/ReplaceFirstTextCommand.class
+no/ntnu/idatt2003/Script.class
 no/ntnu/idatt2003/ReplaceTextCommand.class
 no/ntnu/idatt2003/TextCommand.class
 no/ntnu/idatt2003/CapitalizeTextCommand.class
