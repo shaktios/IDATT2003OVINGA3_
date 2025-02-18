@@ -21,5 +21,6 @@ Dette prosjektet er et **enkelt tekstbehandlings-API** i Java, hvor man kan bruk
 
 ### **Bygg og kjør tester**
 ```sh
+cd textcommands
 mvn clean package
 mvn test
